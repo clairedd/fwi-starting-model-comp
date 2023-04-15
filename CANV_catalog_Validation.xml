@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2">
+  <eventParameters publicID="smi:local/e7914241-aac5-439e-b13f-908baad81639">
+    <event publicID="smi:local/b7ee7484-79bc-4a81-81c8-18b3e9221d53">
+      <type>earthquake</type>
+      <origin publicID="smi:local/b7ee7484-79bc-4a81-81c8-18b3e9221d53">
+        <time>
+          <value>2020-11-13T09:13:57.300000Z</value>
+        </time>
+        <latitude>
+          <value>38.22</value>
+        </latitude>
+        <longitude>
+          <value>-117.78</value>
+        </longitude>
+        <depth>
+          <value>14900.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/b7ee7484-79bc-4a81-81c8-18b3e9221d53">
+        <mag>
+          <value>5.41</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/4c8e2c84-ff03-476a-aab1-7e7b6f618796">
+        <momentTensor publicID="smi:local/7d53c2aa-4c37-4831-9129-a2e6f917dfe1">
+          <scalarMoment>
+            <value>1.6527537626639968e+17</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-3.71e+16</value>
+            </Mrr>
+            <Mtt>
+              <value>-4.69e+16</value>
+            </Mtt>
+            <Mpp>
+              <value>8.4e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>-5.37e+16</value>
+            </Mrt>
+            <Mrp>
+              <value>-8500000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>1.38e+17</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/2e74f1b4-8445-4b16-ad2e-a4439dc7612a">
+      <type>earthquake</type>
+      <origin publicID="smi:local/2e74f1b4-8445-4b16-ad2e-a4439dc7612a">
+        <time>
+          <value>2020-12-01T23:33:01.100000Z</value>
+        </time>
+        <latitude>
+          <value>38.17</value>
+        </latitude>
+        <longitude>
+          <value>-118.05</value>
+        </longitude>
+        <depth>
+          <value>12500.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/2e74f1b4-8445-4b16-ad2e-a4439dc7612a">
+        <mag>
+          <value>4.99</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/c815119a-c8f0-4e07-a3c0-c1e085828185">
+        <momentTensor publicID="smi:local/0e1bea48-c082-4a6a-ad7d-c63e66479bac">
+          <scalarMoment>
+            <value>3.840242700663592e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-1.14e+16</value>
+            </Mrr>
+            <Mtt>
+              <value>-1.21e+16</value>
+            </Mtt>
+            <Mpp>
+              <value>2.35e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>-1.61e+16</value>
+            </Mrt>
+            <Mrp>
+              <value>-580000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>2.83e+16</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/a9fa21a2-3330-4018-bbe7-77941efabef8">
+      <type>earthquake</type>
+      <origin publicID="smi:local/a9fa21a2-3330-4018-bbe7-77941efabef8">
+        <time>
+          <value>2020-12-03T05:15:33.700000Z</value>
+        </time>
+        <latitude>
+          <value>38.22</value>
+        </latitude>
+        <longitude>
+          <value>-118.03</value>
+        </longitude>
+        <depth>
+          <value>15000.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/a9fa21a2-3330-4018-bbe7-77941efabef8">
+        <mag>
+          <value>4.87</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/0ab13ba1-cd0e-4958-a256-f7bdac4e2a48">
+        <momentTensor publicID="smi:local/e784b847-64d0-42ac-b156-7e73a0adf85c">
+          <scalarMoment>
+            <value>2.5391685647077468e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-4830000000000000.0</value>
+            </Mrr>
+            <Mtt>
+              <value>-3780000000000000.0</value>
+            </Mtt>
+            <Mpp>
+              <value>8610000000000000.0</value>
+            </Mpp>
+            <Mrt>
+              <value>-5110000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>1030000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>2.37e+16</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/dc145ccd-a1af-471f-8e26-978b75f16dc5">
+      <type>earthquake</type>
+      <origin publicID="smi:local/dc145ccd-a1af-471f-8e26-978b75f16dc5">
+        <time>
+          <value>2020-12-12T07:51:00.400000Z</value>
+        </time>
+        <latitude>
+          <value>38.3</value>
+        </latitude>
+        <longitude>
+          <value>-118.01</value>
+        </longitude>
+        <depth>
+          <value>26500.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/dc145ccd-a1af-471f-8e26-978b75f16dc5">
+        <mag>
+          <value>5.0</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/76c0d258-8b31-4a25-9db8-741ad3459415">
+        <momentTensor publicID="smi:local/e63c4c11-2b07-4d37-8b22-c1e0a0003e7a">
+          <scalarMoment>
+            <value>4.007737516355082e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-3.83e+16</value>
+            </Mrr>
+            <Mtt>
+              <value>6280000000000000.0</value>
+            </Mtt>
+            <Mpp>
+              <value>3.2e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>9570000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>-4630000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>1.51e+16</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/e7f54392-9868-4470-8281-7e024118da28">
+      <type>earthquake</type>
+      <origin publicID="smi:local/e7f54392-9868-4470-8281-7e024118da28">
+        <time>
+          <value>2020-12-14T21:20:15.600000Z</value>
+        </time>
+        <latitude>
+          <value>38.19</value>
+        </latitude>
+        <longitude>
+          <value>-118.04</value>
+        </longitude>
+        <depth>
+          <value>16100.000000000002</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/e7f54392-9868-4470-8281-7e024118da28">
+        <mag>
+          <value>4.89</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/750a20e0-cede-4351-9a53-923a4725c9f7">
+        <momentTensor publicID="smi:local/20f181e1-4801-4d85-a7a9-766b8be00fd3">
+          <scalarMoment>
+            <value>3.0376560865246084e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-1.59e+16</value>
+            </Mrr>
+            <Mtt>
+              <value>2170000000000000.0</value>
+            </Mtt>
+            <Mpp>
+              <value>1.37e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>-4190000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>-3430000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>2.59e+16</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/38e0f635-eb3d-44b4-95fc-ba91acdb3775">
+      <type>earthquake</type>
+      <origin publicID="smi:local/38e0f635-eb3d-44b4-95fc-ba91acdb3775">
+        <time>
+          <value>2021-03-31T08:56:28.800000Z</value>
+        </time>
+        <latitude>
+          <value>32.56</value>
+        </latitude>
+        <longitude>
+          <value>-115.18</value>
+        </longitude>
+        <depth>
+          <value>12000.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/38e0f635-eb3d-44b4-95fc-ba91acdb3775">
+        <mag>
+          <value>4.77</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/0369fd8b-1686-4661-9702-c780684169ca">
+        <momentTensor publicID="smi:local/01681542-cb9f-4aa4-ab65-e185c02d4ca0">
+          <scalarMoment>
+            <value>1.8084988249927064e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-1.79e+16</value>
+            </Mrr>
+            <Mtt>
+              <value>3400000000000000.0</value>
+            </Mtt>
+            <Mpp>
+              <value>1.45e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>6720000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>200000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>3280000000000000.0</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/f342e6e7-3c6a-4e13-abc2-896fd021b034">
+      <type>earthquake</type>
+      <origin publicID="smi:local/f342e6e7-3c6a-4e13-abc2-896fd021b034">
+        <time>
+          <value>2021-05-07T04:35:18.100000Z</value>
+        </time>
+        <latitude>
+          <value>39.56</value>
+        </latitude>
+        <longitude>
+          <value>-120.18</value>
+        </longitude>
+        <depth>
+          <value>20500.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/f342e6e7-3c6a-4e13-abc2-896fd021b034">
+        <mag>
+          <value>4.7</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/6f8a008a-0ead-46e5-aaa7-e874146753b6">
+        <momentTensor publicID="smi:local/ef580e49-4705-4109-beb9-d4869f08c926">
+          <scalarMoment>
+            <value>1.4394066485882298e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-3090000000000000.0</value>
+            </Mrr>
+            <Mtt>
+              <value>-1e+16</value>
+            </Mtt>
+            <Mpp>
+              <value>1.31e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>1190000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>-480000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>8060000000000000.0</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/6eae5ad4-a277-4542-b004-e574e15bb9c4">
+      <type>earthquake</type>
+      <origin publicID="smi:local/6eae5ad4-a277-4542-b004-e574e15bb9c4">
+        <time>
+          <value>2021-06-05T17:56:01.200000Z</value>
+        </time>
+        <latitude>
+          <value>33.14</value>
+        </latitude>
+        <longitude>
+          <value>-115.6</value>
+        </longitude>
+        <depth>
+          <value>12000.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/6eae5ad4-a277-4542-b004-e574e15bb9c4">
+        <mag>
+          <value>5.3</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/9c2e15b7-f0b1-4f84-bb85-4b8f895be786">
+        <momentTensor publicID="smi:local/3cf01986-1d68-4a09-b27c-efd673b063b9">
+          <scalarMoment>
+            <value>1.1285989101536469e+17</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-8000000000000000.0</value>
+            </Mrr>
+            <Mtt>
+              <value>-6.82e+16</value>
+            </Mtt>
+            <Mpp>
+              <value>7.63e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>-7400000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>-2.18e+16</value>
+            </Mrp>
+            <Mtp>
+              <value>8.33e+16</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/f76f57b2-b4d7-45df-abda-1b85e3094e2a">
+      <type>earthquake</type>
+      <origin publicID="smi:local/f76f57b2-b4d7-45df-abda-1b85e3094e2a">
+        <time>
+          <value>2021-07-08T22:49:54.700000Z</value>
+        </time>
+        <latitude>
+          <value>38.51</value>
+        </latitude>
+        <longitude>
+          <value>-119.48</value>
+        </longitude>
+        <depth>
+          <value>12000.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/f76f57b2-b4d7-45df-abda-1b85e3094e2a">
+        <mag>
+          <value>5.95</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/a1c7ff20-bd33-4bd1-89e6-5c2163613ffd">
+        <momentTensor publicID="smi:local/4a8aa22e-8c31-4cd3-8136-e483f3a37764">
+          <scalarMoment>
+            <value>1.0631361624928388e+18</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-9.08e+17</value>
+            </Mrr>
+            <Mtt>
+              <value>-2.15e+17</value>
+            </Mtt>
+            <Mpp>
+              <value>1.12e+18</value>
+            </Mpp>
+            <Mrt>
+              <value>3.3e+16</value>
+            </Mrt>
+            <Mrp>
+              <value>-1.85e+17</value>
+            </Mrp>
+            <Mtp>
+              <value>1.8e+17</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/5845387d-ad82-4713-9843-2e2c7909d21f">
+      <type>earthquake</type>
+      <origin publicID="smi:local/5845387d-ad82-4713-9843-2e2c7909d21f">
+        <time>
+          <value>2021-07-18T06:46:15.600000Z</value>
+        </time>
+        <latitude>
+          <value>40.32</value>
+        </latitude>
+        <longitude>
+          <value>-124.39</value>
+        </longitude>
+        <depth>
+          <value>33600.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/5845387d-ad82-4713-9843-2e2c7909d21f">
+        <mag>
+          <value>5.15</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/1c3064d2-687b-4b2a-abf9-5efc8709d665">
+        <momentTensor publicID="smi:local/9dc31d0b-c866-49b3-83f0-e2bd3863e7df">
+          <scalarMoment>
+            <value>6.791982074475755e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>8210000000000000.0</value>
+            </Mrr>
+            <Mtt>
+              <value>-6.48e+16</value>
+            </Mtt>
+            <Mpp>
+              <value>5.66e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>-1.33e+16</value>
+            </Mrt>
+            <Mrp>
+              <value>1.6e+16</value>
+            </Mrp>
+            <Mtp>
+              <value>-2.11e+16</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/db20120a-ac92-4403-9e54-9eff731edc2b">
+      <type>earthquake</type>
+      <origin publicID="smi:local/db20120a-ac92-4403-9e54-9eff731edc2b">
+        <time>
+          <value>2021-08-31T17:21:15.000000Z</value>
+        </time>
+        <latitude>
+          <value>41.04</value>
+        </latitude>
+        <longitude>
+          <value>-114.95</value>
+        </longitude>
+        <depth>
+          <value>19900.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/db20120a-ac92-4403-9e54-9eff731edc2b">
+        <mag>
+          <value>4.76</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/738245de-f7c6-47da-8e49-cf6ee129f375">
+        <momentTensor publicID="smi:local/f037a8c8-0cd0-4098-ade4-28c059d93ecb">
+          <scalarMoment>
+            <value>1.7651137357122342e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-1.51e+16</value>
+            </Mrr>
+            <Mtt>
+              <value>-50000000000000.0</value>
+            </Mtt>
+            <Mpp>
+              <value>1.51e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>7800000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>950000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>4670000000000000.0</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/a8dba2a3-9ae5-4e09-a917-a7a9edfdfe6d">
+      <type>earthquake</type>
+      <origin publicID="smi:local/a8dba2a3-9ae5-4e09-a917-a7a9edfdfe6d">
+        <time>
+          <value>2021-10-25T23:42:40.400000Z</value>
+        </time>
+        <latitude>
+          <value>35.86</value>
+        </latitude>
+        <longitude>
+          <value>-121.39</value>
+        </longitude>
+        <depth>
+          <value>12000.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/a8dba2a3-9ae5-4e09-a917-a7a9edfdfe6d">
+        <mag>
+          <value>4.84</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/43ec5bea-9f0f-450f-a666-26a3e9fadcdd">
+        <momentTensor publicID="smi:local/625f7019-560d-4683-880f-c2addaa2b3d9">
+          <scalarMoment>
+            <value>2.277922957432933e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>1.79e+16</value>
+            </Mrr>
+            <Mtt>
+              <value>-1.44e+16</value>
+            </Mtt>
+            <Mpp>
+              <value>-3540000000000000.0</value>
+            </Mpp>
+            <Mrt>
+              <value>1560000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>-1.34e+16</value>
+            </Mrp>
+            <Mtp>
+              <value>8170000000000000.0</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/deb8dd4c-771e-4001-ac1a-072eb94f71ca">
+      <type>earthquake</type>
+      <origin publicID="smi:local/deb8dd4c-771e-4001-ac1a-072eb94f71ca">
+        <time>
+          <value>2021-12-20T20:10:30.900000Z</value>
+        </time>
+        <latitude>
+          <value>40.36</value>
+        </latitude>
+        <longitude>
+          <value>-124.41</value>
+        </longitude>
+        <depth>
+          <value>29200.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/deb8dd4c-771e-4001-ac1a-072eb94f71ca">
+        <mag>
+          <value>6.21</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/2d80fe80-9026-410e-baa5-31eac1af7cd2">
+        <momentTensor publicID="smi:local/716aac46-ed04-45f9-8b09-d9806e8f6e5e">
+          <scalarMoment>
+            <value>2.604982149650933e+18</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>1.84e+17</value>
+            </Mrr>
+            <Mtt>
+              <value>-2.07e+18</value>
+            </Mtt>
+            <Mpp>
+              <value>1.89e+18</value>
+            </Mpp>
+            <Mrt>
+              <value>3e+16</value>
+            </Mrt>
+            <Mrp>
+              <value>-7.48e+17</value>
+            </Mrp>
+            <Mtp>
+              <value>-1.51e+18</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/564e0860-d7bc-462a-ab6f-de6e00e9132f">
+      <type>earthquake</type>
+      <origin publicID="smi:local/564e0860-d7bc-462a-ab6f-de6e00e9132f">
+        <time>
+          <value>2022-01-06T00:28:11.000000Z</value>
+        </time>
+        <latitude>
+          <value>37.36</value>
+        </latitude>
+        <longitude>
+          <value>-117.9</value>
+        </longitude>
+        <depth>
+          <value>13800.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/564e0860-d7bc-462a-ab6f-de6e00e9132f">
+        <mag>
+          <value>4.87</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/f1f31b59-ccff-42a1-a7f4-050897d58411">
+        <momentTensor publicID="smi:local/6079387f-cea0-454f-8a22-c25ab76347b9">
+          <scalarMoment>
+            <value>2.585215271500615e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-2260000000000000.0</value>
+            </Mrr>
+            <Mtt>
+              <value>-9500000000000000.0</value>
+            </Mtt>
+            <Mpp>
+              <value>1.18e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>-6670000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>5190000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>2.19e+16</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+    <event publicID="smi:local/5185624f-545d-4c92-ac2f-f7d54d501c0d">
+      <type>earthquake</type>
+      <origin publicID="smi:local/5185624f-545d-4c92-ac2f-f7d54d501c0d">
+        <time>
+          <value>2022-01-06T02:42:14.800000Z</value>
+        </time>
+        <latitude>
+          <value>40.38</value>
+        </latitude>
+        <longitude>
+          <value>-124.82</value>
+        </longitude>
+        <depth>
+          <value>14000.0</value>
+        </depth>
+        <type>centroid</type>
+      </origin>
+      <magnitude publicID="smi:local/5185624f-545d-4c92-ac2f-f7d54d501c0d">
+        <mag>
+          <value>4.72</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+      <focalMechanism publicID="smi:local/22a5c499-ec10-4689-b8bc-c4b09abfc175">
+        <momentTensor publicID="smi:local/019eff45-db38-4301-917a-16fd455e1aa2">
+          <scalarMoment>
+            <value>1.535631303405866e+16</value>
+          </scalarMoment>
+          <tensor>
+            <Mrr>
+              <value>-230000000000000.0</value>
+            </Mrr>
+            <Mtt>
+              <value>-1.17e+16</value>
+            </Mtt>
+            <Mpp>
+              <value>1.2e+16</value>
+            </Mpp>
+            <Mrt>
+              <value>-4440000000000000.0</value>
+            </Mrt>
+            <Mrp>
+              <value>-680000000000000.0</value>
+            </Mrp>
+            <Mtp>
+              <value>-8670000000000000.0</value>
+            </Mtp>
+          </tensor>
+        </momentTensor>
+      </focalMechanism>
+    </event>
+  </eventParameters>
+</q:quakeml>
